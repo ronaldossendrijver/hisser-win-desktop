@@ -1,6 +1,6 @@
 ﻿using Hisser.UI.Phone.Resources;
 
-namespace Hisser.UI.Phone
+namespace PhoneApp1
 {
     /// <summary>
     /// Provides access to string resources.

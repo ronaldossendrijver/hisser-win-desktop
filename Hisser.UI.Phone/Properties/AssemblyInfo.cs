@@ -6,11 +6,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Hisser.UI.Phone")]
+[assembly: AssemblyTitle("PhoneApp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Hisser.UI.Phone")]
+[assembly: AssemblyProduct("PhoneApp1")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -21,7 +21,7 @@ using System.Resources;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f8e08895-a173-49e2-97ab-00ae97a96cfc")]
+[assembly: Guid("e68665a6-53a3-42b6-acf0-4ef28ce40eb6")]
 
 // Version information for an assembly consists of the following four values:
 //

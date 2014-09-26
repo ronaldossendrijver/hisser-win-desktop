@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hisser.TestUI", "Hisser.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hisser.ClientServer.Phone", "Hisser.ClientServer.Phone\Hisser.ClientServer.Phone.csproj", "{FD783D50-889D-48BB-A6BC-B3FC6C588800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hisser.UI.Phone", "PhoneApp1\Hisser.UI.Phone.csproj", "{C9101A08-582F-4198-B0D0-B7F562D0D36C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hisser.UI.Phone", "Hisser.UI.Phone\Hisser.UI.Phone.csproj", "{C9101A08-582F-4198-B0D0-B7F562D0D36C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

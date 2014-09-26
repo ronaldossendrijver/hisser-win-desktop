@@ -1,4 +1,0 @@
-﻿<MessageCollection xmlns="clr-namespace:WP7ConversationView">
-  <Message Text="Hi, How are you?" Side="You"/>
-  <Message Text="Pretty good thanks. How are things at your end?" Side="Me"/>
-</MessageCollection>

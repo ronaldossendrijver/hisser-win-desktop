@@ -4,15 +4,15 @@
          xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest"
          xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
 
-  <Identity Name="f8e08895-a173-49e2-97ab-00ae97a96cfc"
+  <Identity Name="e68665a6-53a3-42b6-acf0-4ef28ce40eb6"
             Publisher="CN=Ronald"
             Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="0b223bd1-664d-4c5f-af76-c51d4123e015"
-                    PhonePublisherId="d2e5bd29-b1c8-459c-b946-c194b4b014dd"/>
+  <mp:PhoneIdentity PhoneProductId="c9101a08-582f-4198-b0d0-b7f562d0d36c"
+                    PhonePublisherId="e87188bb-a3cc-491a-bc0b-a55d3726d8b2"/>
 
   <Properties>
-    <DisplayName>Hisser.UI.Phone</DisplayName>
+    <DisplayName>PhoneApp1</DisplayName>
     <PublisherDisplayName>Ronald</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -31,10 +31,10 @@
                  Executable="AGHost.exe"
                  EntryPoint="MainPage.xaml">
       <m3:VisualElements
-          DisplayName="Hisser.UI.Phone"
+          DisplayName="PhoneApp1"
           Square150x150Logo="Assets\SquareTile150x150.png"
           Square44x44Logo="Assets\Logo.png"
-          Description="Hisser.UI.Phone"
+          Description="PhoneApp1"
           ForegroundText="light"
           BackgroundColor="#464646">
         <m3:DefaultTile Square71x71Logo="Assets\SquareTile71x71.png"/>

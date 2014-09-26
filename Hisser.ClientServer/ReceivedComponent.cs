@@ -53,5 +53,10 @@ namespace Hisser.ClientServer
             : base()
         {
         }
+
+        internal object PublicValueString()
+        {
+            
+        }
     }
 }

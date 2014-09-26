@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{0b223bd1-664d-4c5f-af76-c51d4123e015}" Title="Hisser.UI.Phone" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Hisser.UI.Phone author" Description="Sample description" SDOptOut ="false" BackUpOptOut ="false" Publisher="Hisser.UI.Phone" PublisherID="{d2e5bd29-b1c8-459c-b946-c194b4b014dd}">
+  <App xmlns="" ProductID="{c9101a08-582f-4198-b0d0-b7f562d0d36c}" Title="PhoneApp1" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="PhoneApp1 author" Description="Sample description" SDOptOut ="false" BackUpOptOut ="false" Publisher="PhoneApp1" PublisherID="{e87188bb-a3cc-491a-bc0b-a55d3726d8b2}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
@@ -15,12 +15,12 @@
       <DefaultTask Name ="_default" NavigationPage="MainPage.xaml" ActivationPolicy="Resume"/>
     </Tasks>
     <Tokens>
-      <PrimaryToken TokenID="Hisser.UI.PhoneToken" TaskName="_default">
+      <PrimaryToken TokenID="PhoneApp1Token" TaskName="_default">
         <TemplateFlip>
           <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
           <Count>0</Count>
           <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
-          <Title>Hisser.UI.Phone</Title>
+          <Title>PhoneApp1</Title>
           <BackContent></BackContent>
           <BackBackgroundImageURI></BackBackgroundImageURI>
           <BackTitle></BackTitle>
